@@ -5,8 +5,8 @@
 </h1>
 </div>
 
-<div align="center" id="main" border-radius="50px">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
+<div align="center" id="main">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500" height="250"/>
   <div id="badges" align="center">
   <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
