@@ -20,15 +20,15 @@
  ---
  
 ### :woman_technologist: About Me :
- I'm Ainhoa, and I spend most of my days geeking out over frontend development. I'm a total programming and web design nerd, and I love nothing more than getting lost in the details of a project. 
+Hi there! I'm Ainhoa, a second-year Computer Science student at Greenwich University with a passion for software and web development.
 
-- :telescope: I am a qualified frontend developer, having completed a bootcamp in frontend development from Edx and the University of Birmingham.
+### Qualifications:
+- Frontend Development Bootcamp at the University of Birmingham and EdX  
+- Pursuing a Computer Science degree at Greenwich University  
+- Completed a Web Development Traineeship  
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and CodeWars or watch tutorials from OpenBootcamp.
-
-- :mailbox:How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+### :mailbox:How to reach me:  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
 ---
 
