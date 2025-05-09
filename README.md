@@ -18,7 +18,7 @@
  ---
  
 ### :woman_technologist: About Me :
-Hi there! I'm Ainhoa, a second-year Computer Science student at Greenwich University with a passion for software and web development.
+Hi there! I'm Ainhoa, a third-year Computer Science student at Greenwich University with a passion for software and web development.
 
 ### Qualifications:
 - Frontend Development Bootcamp at the University of Birmingham and EdX  
