@@ -21,9 +21,11 @@
 Hi there! I'm Ainhoa, a third-year Computer Science student at Greenwich University with a passion for software and web development.
 
 ### Qualifications:
-- Frontend Development Bootcamp at the University of Birmingham and EdX  
-- Pursuing a Computer Science degree at Greenwich University  
-- Completed a Web Development Traineeship  
+- Pursuing a BSc in Computer Science at the University of Greenwich
+- Web Development Traineeship at London Learning Consortium and Brillit Solutions Ltd
+- Frontend Development Bootcamp with EdX
+- Introduction to Data Science: Statistical Programming with R with Universidad Nacional Autónoma de México
+
 
 ### :mailbox:How to reach me:  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/)
