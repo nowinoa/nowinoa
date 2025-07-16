@@ -27,7 +27,7 @@ Hi there! I'm Ainhoa, a third-year Computer Science student at Greenwich Univers
 
 
 ### :mailbox:How to reach me:  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ainhoa-prada/)
 
 ---
 
